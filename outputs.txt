@@ -1,0 +1,7 @@
+Comparing files  @ file1.txt # file2.txt
+Common Lines in Both Files
+Hello World
+
+Difference Lines in Both Files
+@-Line- 2 This is a sample file ones
+#+Line- 2 This is a sample file two
